@@ -1,3 +1,7 @@
 [submodule "themes/spectrum"]
 	path = themes/spectrum
 	url = https://github.com/silvanocerza/spectrum.git
+[submodule "public"]
+	path = public
+	url = https://github.com/egovova11/egovova11.github.io
+	branch = master
